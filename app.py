@@ -7,7 +7,7 @@ import seaborn as sns
 st.title('Car Data Analysis Dashboard')
 
 
-data = pd.read_csv('Car_Sales.csv') 
+data = pd.read_csv('Car_sales.csv') 
 
 
 st.subheader('Dataset Preview')
